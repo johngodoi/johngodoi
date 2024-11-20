@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 **I'm John Godoi, a software engineer with more than 13 years of experience. Most of this time, I have worked with Web2 development and data engineering. However, for the last 2 years, I have changed my focus to the exciting world of crypto, blockchain, and Web3. I like to learn more and more about it, and I'm getting a passion for what the future of finance will look like.**
 
+<img src="assets/btc.png" width="200" height="150" alt="Bitcoin">
+<img src="assets/eth.png" width="200" height="150" alt="Ethereum">
+<img src="assets/aws.png" width="200" height="150" alt="AWS">
+
 **A bit about me:**
 
 <!-- * **Passionate about:** [Your Interests, e.g., software development, data science, machine learning] -->
