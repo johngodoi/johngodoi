@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   * **DevOps**: Docker, Kubernetes, terraform, cloudformation, sam, codepipeline, codebuild, codedeploy, codeartifact, codecommit, git, github
   * **Data Engineering**: Datamesh, Datalake, Datawarehouse, ETL, Star Schema and Snow-flake modeling, tiered-layer architecture, data pipelines, SQL, NoSQL
   * **Soft Skills**: Teamwork, Adaptability, Critical Thinking, Attention to Detail, Cross-Cultural Communication Skills, Problem-Solving
-<!-- * **Currently working on:** [Your Current Projects] -->>
+<!-- * **Currently working on:** [Your Current Projects] -->
 
 **Connect with me:**
 
