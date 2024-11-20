@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 **I'm John Godoi, a software engineer with more than 13 years of experience. Most of this time, I have worked with Web2 development and data engineering. However, for the last 2 years, I have changed my focus to the exciting world of crypto, blockchain, and Web3. I like to learn more and more about it, and I'm getting a passion for what the future of finance will look like.**
+
 <p float="left">
 <img src="assets/btc.png" width="100" height="75" alt="Bitcoin"> 
 <img src="assets/eth.png" width="100" height="75" alt="Ethereum"> 
+<img src="assets/ripple.png" width="100" height="75" alt="Ripple">
+<img src="assets/python.png" width="100" height="75" alt="Python"> 
+<img src="assets/typescript.png" width="100" height="75" alt="Typescript">
+<img src="assets/scala.png" width="100" height="75" alt="Scala"> 
 <img src="assets/aws.png" width="100" height="75" alt="AWS">
+<img src="assets/terraform.png" width="100" height="75" alt="Terraform">
 </p>
 
 **A bit about me:**
