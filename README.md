@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 **I'm John Godoi, a software engineer with more than 13 years of experience. Most of this time, I have worked with Web2 development and data engineering. However, for the last 2 years, I have changed my focus to the exciting world of crypto, blockchain, and Web3. I like to learn more and more about it, and I'm getting a passion for what the future of finance will look like.**
-
-<img src="assets/btc.png" width="200" height="150" alt="Bitcoin">
-<img src="assets/eth.png" width="200" height="150" alt="Ethereum">
-<img src="assets/aws.png" width="200" height="150" alt="AWS">
+<p float="left">
+<img src="assets/btc.png" width="100" height="75" alt="Bitcoin"> 
+<img src="assets/eth.png" width="100" height="75" alt="Ethereum"> 
+<img src="assets/aws.png" width="100" height="75" alt="AWS">
+</p>
 
 **A bit about me:**
 
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
   * **DevOps**: Docker, Kubernetes, terraform, cloudformation, sam, codepipeline, codebuild, codedeploy, codeartifact, codecommit, git, github
   * **Data Engineering**: Datamesh, Datalake, Datawarehouse, ETL, Star Schema and Snow-flake modeling, tiered-layer architecture, data pipelines, SQL, NoSQL
   * **Soft Skills**: Teamwork, Adaptability, Critical Thinking, Attention to Detail, Cross-Cultural Communication Skills, Problem-Solving
-* **Currently working on:** [Your Current Projects]
+<!-- * **Currently working on:** [Your Current Projects] -->>
 
 **Connect with me:**
 
