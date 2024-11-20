@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="assets/ripple.png" width="100" height="75" alt="Ripple">
 <img src="assets/python.png" width="100" height="75" alt="Python"> 
 <img src="assets/typescript.png" width="100" height="75" alt="Typescript">
-<img src="assets/scala.png" width="100" height="75" alt="Scala"> 
+<img src="assets/scala2.png" width="100" height="75" alt="Scala"> 
 <img src="assets/aws.png" width="100" height="75" alt="AWS">
 <img src="assets/terraform.png" width="100" height="75" alt="Terraform">
 </p>
